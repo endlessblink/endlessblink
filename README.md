@@ -16,17 +16,17 @@ A free, open-source screen recorder and editor for Linux: record, cut and export
 
 ## ⭐ Featured projects
 
-The ones people use most.
+Newest first.
 
-🗂️ [**master-plan**](https://github.com/endlessblink/master-plan) (27 stars) - AI-native task management for Claude Code. Track tasks in MASTER_PLAN.md: pick, save, ship
+✅ [**claude-sure-skill**](https://github.com/endlessblink/claude-sure-skill) - A confidence gate that makes Claude Code check the root cause before changing code
 
-🎮 [**it-is-unreal**](https://github.com/endlessblink/it-is-unreal) (15 stars) - An MCP bridge for using Unreal Engine workflows through AI tools
+🎮 [**it-is-unreal**](https://github.com/endlessblink/it-is-unreal) - An MCP bridge for using Unreal Engine workflows through AI tools
 
-🩺 [**Comfy-Guru**](https://github.com/endlessblink/Comfy-Guru) (6 stars) - An MCP that connects Claude to your ComfyUI logs to squash errors (peacefully)
+🗂️ [**master-plan**](https://github.com/endlessblink/master-plan) - AI-native task management for Claude Code. Track tasks in MASTER_PLAN.md: pick, save, ship
 
-🎞️ [**clean-cut-mcp**](https://github.com/endlessblink/clean-cut-mcp) (4 stars) - Describe your animation and Claude builds it as a React-powered video
+🎞️ [**clean-cut-mcp**](https://github.com/endlessblink/clean-cut-mcp) - Describe your animation and Claude builds it as a React-powered video
 
-✅ [**claude-sure-skill**](https://github.com/endlessblink/claude-sure-skill) (4 stars) - A confidence gate that makes Claude Code check the root cause before changing code
+🩺 [**Comfy-Guru**](https://github.com/endlessblink/Comfy-Guru) - An MCP that connects Claude to your ComfyUI logs to squash errors (peacefully)
 
 ---
 
