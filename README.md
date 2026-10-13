@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Noam 👋
 
-<!--
-**endlessblink/endlessblink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI agent tools, automation and video workflows. I come from 15+ years of film and video editing (since 2007), not from engineering: coding agents write the code, I design the workflow, test it and ship it. I also teach people how to use AI in their real work.
 
-Here are some ideas to get you started:
+🐦 [X](https://x.com/NNaumovsky) · 🌐 [Site](https://bina-ve-ze.com/en) · 🎬 [Video work](https://bina-bekitzur.com/en/space/videos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🆕 New: Rough Cut
+
+A free, open-source screen recorder and editor for Linux: record, cut and export in one place.
+
+🎬 [**rough-cut**](https://github.com/endlessblink/rough-cut)
+
+---
+
+## ⭐ Featured projects
+
+The ones people use most.
+
+🗂️ [**master-plan**](https://github.com/endlessblink/master-plan) (27 stars) - AI-native task management for Claude Code. Track tasks in MASTER_PLAN.md: pick, save, ship
+
+🎮 [**it-is-unreal**](https://github.com/endlessblink/it-is-unreal) (15 stars) - An MCP bridge for using Unreal Engine workflows through AI tools
+
+🩺 [**Comfy-Guru**](https://github.com/endlessblink/Comfy-Guru) (6 stars) - An MCP that connects Claude to your ComfyUI logs to squash errors (peacefully)
+
+🎞️ [**clean-cut-mcp**](https://github.com/endlessblink/clean-cut-mcp) (4 stars) - Describe your animation and Claude builds it as a React-powered video
+
+✅ [**claude-sure-skill**](https://github.com/endlessblink/claude-sure-skill) (4 stars) - A confidence gate that makes Claude Code check the root cause before changing code
+
+---
+
+## 🧰 Claude Code tools
+
+🗂️ [**master-plan**](https://github.com/endlessblink/master-plan) - Task management inside Claude Code
+
+✅ [**claude-sure-skill**](https://github.com/endlessblink/claude-sure-skill) - Root cause first, then code
+
+🧩 [**claude-dev-infrastructure**](https://github.com/endlessblink/claude-dev-infrastructure) - 12 skills, task coordination hooks, templates and a Kanban dashboard
+
+🛒 [**cc-marketplace**](https://github.com/endlessblink/cc-marketplace) - My Claude Code plugins in one marketplace
+
+## 🎬 Video, 3D and creative AI
+
+🎬 [**rough-cut**](https://github.com/endlessblink/rough-cut) - Screen recorder and editor for Linux
+
+🎞️ [**clean-cut-mcp**](https://github.com/endlessblink/clean-cut-mcp) - Animations from a prompt, as React videos
+
+🎮 [**it-is-unreal**](https://github.com/endlessblink/it-is-unreal) - Unreal Engine through AI tools
+
+🩺 [**Comfy-Guru**](https://github.com/endlessblink/Comfy-Guru) - ComfyUI error help inside Claude
+
+---
+
+📍 Israel · Remote (GMT+3) · Hebrew and English · 🎓 Lecturer and workshop facilitator on AI video, ComfyUI and vibe coding
