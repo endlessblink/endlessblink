@@ -22,7 +22,7 @@ Newest first.
 
 🎮 [**it-is-unreal**](https://github.com/endlessblink/it-is-unreal) - An MCP bridge for using Unreal Engine workflows through AI tools
 
-🗂️ [**master-plan**](https://github.com/endlessblink/master-plan) - AI-native task management for Claude Code. Track tasks in MASTER_PLAN.md: pick, save, ship
+🗂️ [**master-plan**](https://github.com/endlessblink/master-plan) (27 stars) - AI-native task management for Claude Code. Track tasks in MASTER_PLAN.md: pick, save, ship
 
 🎞️ [**clean-cut-mcp**](https://github.com/endlessblink/clean-cut-mcp) - Describe your animation and Claude builds it as a React-powered video
 
